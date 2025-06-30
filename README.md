@@ -20,19 +20,19 @@ A personalized AI-powered platform to prepare for technical interviews by genera
 ## 👁️ Preview
 
 ### > Landing Page
-![HomePage](Snapshots/Home.png)
+![HomePage](Home.png)
 
 ### > Registration Form
-![Registration](Snapshots/Registration.png)
+![Registration](Registration.png)
 
 ### > Create Session Form
-![AddSession](Snapshots/AddSession.png)
+![AddSession](AddSession.png)
 
 ### > Dashboard
-![Dashboard](Snapshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### > Interview Page
-![InterviewPage](Snapshots/InterviewPage.png)
+![InterviewPage](InterviewPage.png)
 
 ---
 ## 🛠️ Tech Stack
